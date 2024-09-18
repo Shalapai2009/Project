@@ -87,6 +87,9 @@
         <mxCell id="D8I12T7kAqvVrmd5uQps-17" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="D8I12T7kAqvVrmd5uQps-14">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="D8I12T7kAqvVrmd5uQps-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="D8I12T7kAqvVrmd5uQps-20" target="8atCb5Bvv00NxJxIG_jw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D8I12T7kAqvVrmd5uQps-20" value="Повышение квалификации" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="80" width="140" height="104" as="geometry" />
         </mxCell>
